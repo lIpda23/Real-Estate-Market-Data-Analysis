@@ -60,8 +60,14 @@ Visualizations:
 Key visualizations included in this project are:
 
 Stacked Area Chart: Displaying yearly sales distribution across buildings (total_sales_per_year_per_building_stacked_area_chart_v2.png)
+![total_sales_per_year_per_building_stacked_area_chart_v2](https://github.com/user-attachments/assets/b99ccd8d-8ff2-4870-b235-c1d8ad7f37e6)
+
 Line Chart: Depicting the total revenue generated from 2004 to 2010 (total_revenue_per_year_in_M_line_chart.png)
+![total_revenue_per_year_in_M_line_chart](https://github.com/user-attachments/assets/62ae8222-efc7-494b-872b-bb2ecd820bb0)
+
 Pareto Chart: Segmenting customers by state in terms of frequency of purchases and cumulative distribution (US_segmentation_by_state_pareto_diagram.png)
+![US_segmentation_by_state_pareto_diagram](https://github.com/user-attachments/assets/09dad90d-f028-473d-934d-3be1ae3b1003)
+
 Each chart provides a unique perspective on the data, offering a more intuitive understanding of sales distribution and customer behavior.
 
 Conclusion:
